@@ -1,5 +1,5 @@
 ## Archivos
-1. **[NumAlea.java](./NumAlea.java)**
+1. **[NumAlea.java](./src/NumAlea.java)**
 2. **[Retocaracol.java](./Retocaracol.java)**
 3. **[RetoDevolverCambio.java](./RetoDevolverCambio.java)**
 ## Errores  
