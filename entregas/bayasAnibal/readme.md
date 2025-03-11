@@ -1,4 +1,6 @@
---- 
+## Archivos
+---
+## Errores  
 ### 1. Elige nombres descriptivos
  Fallo: En el archivo Retocaracol.java, el nombre coche no es descriptivo. No queda claro qué representa exactamente.
 
