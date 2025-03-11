@@ -1,5 +1,7 @@
 ## Archivos
----
+1. **[NumAlea.java](./NumAlea.java)**
+2. **[Retocaracol.java](./Retocaracol.java)**
+3. **[RetoDevolverCambio.java](./RetoDevolverCambio.java)**
 ## Errores  
 ### 1. Elige nombres descriptivos
  Fallo: En el archivo Retocaracol.java, el nombre coche no es descriptivo. No queda claro qué representa exactamente.
