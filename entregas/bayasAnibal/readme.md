@@ -1,7 +1,7 @@
-1. Elige nombres descriptivos
-Fallo: En el archivo Retocaracol.java, el nombre coche no es descriptivo. No queda claro qué representa exactamente.
+# 1. Elige nombres descriptivos
+## Fallo: En el archivo Retocaracol.java, el nombre coche no es descriptivo. No queda claro qué representa exactamente.
 
-Ejemplo: int coche = (int) (Math.random() * 10) + 1;
+### Ejemplo: int coche = (int) (Math.random() * 10) + 1;
 
 Sugerencia: Un nombre más descriptivo sería probabilidadDeCoche o eventoCoche.
 
